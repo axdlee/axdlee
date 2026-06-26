@@ -9,7 +9,7 @@
  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=$+whoami+%7C+Sheldon.Li;Software+Engineer+%40+Yeelight+%7C+Smart+Home+%26+IoT;$+cat+/etc/motto;Code+is+poetry.+Architecture+is+art.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=$+whoami+%7C+Sheldon.Li;Software+Engineer+%40+Yeelight+%7C+Smart+Home+%26+IoT;$+cat+/etc/motto;Code+is+poetry.+Architecture+is+art.+)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,9 +39,9 @@ philosophy:
 
 <div align="center">
 
-![GitHub User Stats](https://img.shields.io/badge/GitHub_Member-Since_2016-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![Public Repos](https://img.shields.io/badge/Public_Repos-72+-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![Years Active](https://img.shields.io/badge/Years_Active-10-7B2FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![GitHub User Stats](https://img.shields.io/badge/GitHub_Member-Since_2016-181717?style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public_Repos-72+-181717?style=for-the-badge&logo=github&logoColor=white)
+![Years Active](https://img.shields.io/badge/Years_Active-10-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -114,12 +114,12 @@ philosophy:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axdlee&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axdlee&layout=compact&theme=dark&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axdlee&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axdlee&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" />
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=axdlee&theme=dark&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=axdlee&hide_border=true" />
 
 </div>
 
@@ -129,7 +129,7 @@ philosophy:
 
 <div align="center">
 
-[![AxdlLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axdlee&bg_color=0d1117&color=00ff41&line=00d4ff&point=7b2fff&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AxdlLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axdlee&bg_color=ffffff&color=555555&line=58A6FF&point=7B2FFF&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -149,7 +149,7 @@ philosophy:
 
 <div align="center">
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xdlee&theme=dark&hide_border=true&layout=compact&langs_count=10&hide_title=true)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xdlee&hide_border=true&layout=compact&langs_count=10&hide_title=true)
 
 </div>
 
@@ -254,7 +254,7 @@ philosophy:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=axdlee&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/axdlee)
+[![trophy](https://github-profile-trophy.vercel.app/?username=axdlee&no-frame=true&no-bg=true&column=7&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/axdlee)
 
 </div>
 
@@ -315,11 +315,11 @@ timeline
 
 ### 💬 Dev Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=axdlee&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=axdlee&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 ```
  ╔═══════════════════════════════════════════════════════╗
