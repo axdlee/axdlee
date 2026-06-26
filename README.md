@@ -213,6 +213,43 @@ motto: "Talk is cheap. Show me the code."
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<!-- Pull Shark — 合并了 42+ 个 PR -->
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-x1-667eea?style=for-the-badge&logo=github&logoColor=white)
+<!-- Arctic Code Vault Contributor — 2020年活跃仓库归档 -->
+![Arctic Code](https://img.shields.io/badge/Arctic_Code_Vault-Contributor-764ba2?style=for-the-badge&logo=github&logoColor=white)
+<!-- Starstruck — 仓库获得 16+ stars -->
+![Starstruck](https://img.shields.io/badge/Starstruck-f093fb?style=for-the-badge&logo=github&logoColor=white)
+<!-- YOLO — 直接合并 PR 未经 review -->
+![YOLO](https://img.shields.io/badge/YOLO-667eea?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![PRs](https://img.shields.io/badge/🔀_Pull_Requests-42+-667eea?style=for-the-badge&logo=github&logoColor=white)
+![Issues](https://img.shields.io/badge/🐛_Issues-31+-764ba2?style=for-the-badge&logo=github&logoColor=white)
+![Discussions](https://img.shields.io/badge/💬_Discussions-Active-f093fb?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## ⭐ Star History
+
+<div align="center">
+
+<a href="https://star-history.com/#axdlee/activation-manager&Date">
+  <img width="70%" src="https://api.star-history.com/svg?repos=axdlee/activation-manager&type=Date" alt="Star History Chart" />
+</a>
+
+</div>
+
+---
+
 ## 📅 Timeline
 
 <div align="center">
