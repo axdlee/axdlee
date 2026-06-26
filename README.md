@@ -7,9 +7,9 @@
 <br/>
 
 <!-- 总览数字 -->
-![Stars](https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fgithub.com%2Fapi%2Fv1%2Fusers%2Faxdlee&style=for-the-badge&color=667eea&logo=github&logoColor=white)
-![Forks](https://img.shields.io/badge/dynamic/json?label=Forks&query=%24.forks&url=https%3A%2F%2Fgithub.com%2Fapi%2Fv1%2Fusers%2Faxdlee&style=for-the-badge&color=764ba2&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/axdlee?label=Followers&style=for-the-badge&color=f093fb&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/⭐_Stars-149+-667eea?style=for-the-badge&logo=github&logoColor=white)
+![Forks](https://img.shields.io/badge/🍴_Forks-31+-764ba2?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/axdlee?label=👥_Followers&style=for-the-badge&color=f093fb&logo=github&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=6&section=header&text=false" width="100%"/>
 
