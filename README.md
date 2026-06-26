@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 头部：黑客风格终端横幅 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
 ```
  ███████╗██╗  ██╗███████╗██╗     ██████╗  ██████╗ ███╗   ██╗
  ██╔════╝╚██╗██╔╝██╔════╝██║     ██╔══██╗██╔═══██╗████╗  ██║
@@ -13,21 +9,13 @@
  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<!-- 打字动画 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=$+whoami+%7C+Sheldon.Li;Software+Engineer+%40+Yeelight+%7C+Smart+Home+%26+IoT;$+cat+/etc/motto;Code+is+poetry.+Architecture+is+art.+)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ASCII 艺术分割线 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:00FF41,70:00D4FF,100:7B2FFF&height=4&section=header&text=false" width="100%"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 关于我 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20busts%20in%20silhouette/Man%20Technologist.png" width="32" /> `cat ~/.about`
+## 👨‍💻 About Me
 
 ```yaml
 name:     Sheldon Li
@@ -59,11 +47,7 @@ philosophy:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 技术栈 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/fire.png" width="30" /> `ls ~/tech-stack`
+## 🔥 Tech Stack
 
 <table>
 <tr>
@@ -100,7 +84,6 @@ philosophy:
 
 <div align="center">
 
-<!-- 语言徽章 - 行 1 -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -110,7 +93,6 @@ philosophy:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<!-- 技术栈徽章 - 行 2 -->
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
@@ -128,84 +110,52 @@ philosophy:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- GitHub 数据统计 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/chart-increasing.png" width="30" /> `htop --user=axdlee`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- 核心统计卡片 -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axdlee&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00D4FF&text_color=C9D1D9&ring_color=00FF41&border_color=30363D" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axdlee&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=10&border_color=30363D&size_weight=0.5&count_weight=0.5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axdlee&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axdlee&layout=compact&theme=dark&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" />
 
 <br/>
 
-<!-- 连续贡献统计 -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=axdlee&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00D4FF&fire=FF6B6B&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&border=30363D" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=axdlee&theme=dark&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 贡献活动图 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/1st-place-medal.png" width="30" /> `git log --contributions`
+## 📈 Contribution Activity
 
 <div align="center">
 
-### 📊 Contribution Activity Graph
-[![AxdlLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axdlee&bg_color=0D1117&color=00FF41&line=00D4FF&point=7B2FFF&area=true&area_color=00FF41&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AxdlLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axdlee&bg_color=0d1117&color=00ff41&line=00d4ff&point=7b2fff&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 贡献蛇形动画 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<!-- 需要通过 GitHub Actions 自动生成，先放占位图，推送后配置 Actions 即可生效 -->
-<!-- 配置方法见 README 底部说明 -->
 <img src="https://raw.githubusercontent.com/axdlee/axdlee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="80%"/>
 
-> ⚠️ 首次需配置 GitHub Actions 自动生成，详见底部说明
-
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 编码时长统计 (WakaTime) -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/stopwatch.png" width="30" /> `wakatime --stats`
-
-<!-- WakaTime 编码时长统计 — GitHub Actions 每日自动更新 -->
-<!-- WAKATIME_API_KEY 已配置 ✅ -->
+## ⏱ WakaTime
 
 <div align="center">
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xdlee&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&hide_border=true&border_color=30363D&layout=compact&langs_count=10&theme=dark&hide_title=true)
-
-> 安装 [WakaTime 编辑器插件](https://wakatime.com/plugins) 后数据自动采集，Actions 每日自动更新
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xdlee&theme=dark&hide_border=true&layout=compact&langs_count=10&hide_title=true)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 精选项目 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/rocket.png" width="30" /> `ls ~/projects --featured`
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -300,11 +250,7 @@ philosophy:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 成就 & 奖杯 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/trophy.png" width="30" /> `achievements --list`
+## 🏆 Achievements
 
 <div align="center">
 
@@ -314,11 +260,7 @@ philosophy:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 时间线 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/calendar.png" width="30" /> `timeline --history`
+## 📅 Timeline
 
 <div align="center">
 
@@ -354,38 +296,24 @@ timeline
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 联系方式 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/waving-hand-light-skin-tone.png" width="30" /> `cat ~/.social-links`
+## 📫 Connect With Me
 
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/BLOG-xdlee.me-FF6B6B?style=for-the-badge&logo=ghost&logoColor=white)](https://xdlee.me)
 [![GitHub](https://img.shields.io/badge/GITHUB-axdlee-00FF41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee)
-[![X/Twitter](https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LiXdlee110)
+[![X/Twitter](https://img.shields.io/badge/X__TWITTER-@LiXdlee110-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LiXdlee110)
 [![Email](https://img.shields.io/badge/EMAIL-xdlee110@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xdlee110@gmail.com)
-[![LinuxDo](https://img.shields.io/badge/Linux.do-xdlee-000000?style=for-the-badge&logo=linux&logoColor=white)](https://linux.do/u/xdlee)
-
-</div>
-
-<div align="center">
-
-<!-- 微信 -->
-<img src="https://img.shields.io/badge/WeChat-lxdgege2012-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+[![LinuxDo](https://img.shields.io/badge/LINUX.DO-xdlee-000000?style=for-the-badge&logo=linux&logoColor=white)](https://linux.do/u/xdlee)
+![WeChat](https://img.shields.io/badge/WECHAT-lxdgege2012-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 页脚 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-### 💬 Dev Quote of the Day
+### 💬 Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -393,9 +321,6 @@ timeline
 
 ![Profile Views](https://komarev.com/ghpvc/?username=axdlee&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)
 
-<br/>
-
-<!-- 底部 ASCII 艺术 -->
 ```
  ╔═══════════════════════════════════════════════════════╗
  ║  "The best error message is the one that never shows  ║
@@ -403,28 +328,4 @@ timeline
  ╚═══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:00FF41,70:00D4FF,100:7B2FFF&height=4&section=footer&text=false" width="100%"/>
-
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 配置说明（不会在 Profile 中显示，仅作为参考） -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-<!--
-=== 📋 后续激活模块配置说明 ===
-
-## 1. 🐍 Snake 动画（贡献蛇）
-   - 仓库: https://github.com/Platane/snk
-   - 已配置 .github/workflows/snake.yml
-   - 推送后进入 Actions → "Generate Snake" → Run workflow 即可
-
-## 2. ⏱ WakaTime 编码统计
-   - ✅ WAKATIME_API_KEY 已配置
-   - ✅ wakatime.yml 已就绪
-   - 需安装编辑器插件: https://wakatime.com/plugins
-   - 推送后进入 Actions → "Update WakaTime Stats" → Run workflow
-
-## 3. 📊 贡献活动图
-   - 已通过 GitHub API 自动读取，无需额外配置
--->
