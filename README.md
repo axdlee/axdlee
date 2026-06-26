@@ -165,6 +165,15 @@ motto: "Talk is cheap. Show me the code."
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     6 hrs 1 min           ███████░░░░░░░░░░░░░░░░░░   28.64 %
+Python       4 hrs 9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.78 %
+JavaScript   3 hrs 59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+Java         2 hrs 31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Go           1 hr 20 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+```
+
 <!--END_SECTION:waka-->
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=axdlee&hide_border=true&layout=compact&langs_count=10&hide_title=true&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&border_color=30363d)
