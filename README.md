@@ -144,6 +144,12 @@ focus:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<div align="center">
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=axdlee&hide_border=true&layout=compact&langs_count=10&hide_title=true)
+
+</div>
+
 ---
 
 ## 🚀 Featured Projects
