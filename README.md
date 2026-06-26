@@ -1,17 +1,30 @@
 <div align="center">
 
-<!-- 头部 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Sheldon%20%20Li&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Smart%20Home%20%26%20IoT&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- 自托管 SVG 头图，不依赖外部服务 -->
+<img src="assets/header.svg" width="100%" alt="Sheldon Li"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%F0%9F%92%A1+Turning+ideas+into+reality+with+code;🏠+Smart+Home+%7C+🤖+IoT+%7C+%E2%9C%A8+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%F0%9F%92%A1+Turning+ideas+into+reality+with+code;🏠+Smart+Home+%7C+🤖+IoT+%7C+%E2%9C%A8+Full+Stack)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- 动态打字底部装饰线 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=6&section=header&text=false" width="100%"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
 <div align="center">
+
+### ✨ `whoami`
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
 
 ```yaml
 name:     Sheldon Li
@@ -27,21 +40,37 @@ focus:
   - 🤖 Home Assistant Ecosystem
   - 🛠 Developer Tools & Automation
   - ☁️  Cloud-Native Architecture
+
+motto: "Talk is cheap. Show me the code."
 ```
 
-</div>
+</td>
+<td width="40%" align="center">
 
-<div align="center">
+<br/>
 
+<!-- 个人统计徽章 -->
 ![GitHub Member](https://img.shields.io/badge/Member-Since_2016-667eea?style=for-the-badge&logo=github&logoColor=white)
+<br/><br/>
 ![Public Repos](https://img.shields.io/badge/Repos-72+-764ba2?style=for-the-badge&logo=github&logoColor=white)
+<br/><br/>
 ![Years Active](https://img.shields.io/badge/Years-10-f093fb?style=for-the-badge&logo=github&logoColor=white)
+<br/><br/>
+![Followers](https://img.shields.io/github/followers/axdlee?label=Followers&style=for-the-badge&color=667eea)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Tech Stack
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+<div align="center">
+
+### 🔥 `ls ~/tech-stack`
+
+</div>
 
 <table>
 <tr>
@@ -78,60 +107,71 @@ focus:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axdlee&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axdlee&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=axdlee&hide_border=true" />
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<br/>
+
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 <div align="center">
 
-[![AxdlLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axdlee&bg_color=ffffff&color=555555&line=58A6FF&point=7B2FFF&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📊 `htop --user=axdlee`
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axdlee&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axdlee&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&border_color=30363d" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=axdlee&hide_border=true&background=0D1117&stroke=a78bfa&ring=667eea&fire=f093fb&currStreakLabel=a78bfa&sideLabels=e4e4e7&currStreakNum=e4e4e7&sideNums=e4e4e7&border=30363d" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ═══════════════════ CONTRIBUTION ACTIVITY ═══════════════════ -->
 
 <div align="center">
+
+### 📈 `git log --contributions`
+
+[![AxdlLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axdlee&bg_color=0D1117&color=a78bfa&line=667eea&point=f093fb&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+
+<div align="center">
+
+### 🐍 `contribution --snake`
 
 <img src="https://raw.githubusercontent.com/axdlee/axdlee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="80%"/>
 
@@ -139,107 +179,115 @@ focus:
 
 ---
 
-## ⏱ Coding Stats
+<!-- ═══════════════════ WAKATIME ═══════════════════ -->
+
+<div align="center">
+
+### ⏱ `wakatime --stats`
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<div align="center">
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=axdlee&hide_border=true&layout=compact&langs_count=10&hide_title=true)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=axdlee&hide_border=true&layout=compact&langs_count=10&hide_title=true&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&border_color=30363d)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+
+<div align="center">
+
+### 🚀 `ls ~/projects --featured`
+
+</div>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏆 activation-manager
+#### 🏆 activation-manager
 > 软件激活码授权管理系统 — 快速构建软件付费服务
 
 **TypeScript** · ⭐ 42 · 🔥 Most Starred
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/activation-manager)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/activation-manager)
 
 </td>
 <td width="50%">
 
-### 📰 toutiao-publish
+#### 📰 toutiao-publish
 > 今日头条自动发布 — 长文章、图片上传、完整自动化流程
 
 **Shell** · ⭐ 6
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/toutiao-publish)
+[![Repo](https://img.shields.io/badge/→_View_Repo-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/toutiao-publish)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 hermespanel
+#### 📊 hermespanel
 > 现代化管理面板
 
 **TypeScript** · ⭐ 3
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/hermespanel)
+[![Repo](https://img.shields.io/badge/→_View_Repo-f093fb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/hermespanel)
 
 </td>
 <td width="50%">
 
-### 🦀 clawpanel
+#### 🦀 clawpanel
 > OpenClaw 可视化管理面板 — 内置 AI 助手，跨平台桌面应用
 
-**JavaScript** · AI 多模态集成
+**JavaScript** · AI 多模态
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/clawpanel)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/clawpanel)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛢 GoNavi
+#### 🛢 GoNavi
 > 现代化原生数据库管理工具 — Go + Wails + React
 
 **TypeScript** · 轻量高性能
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/GoNavi)
+[![Repo](https://img.shields.io/badge/→_View_Repo-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/GoNavi)
 
 </td>
 <td width="50%">
 
-### 📧 cloud-mail
+#### 📧 cloud-mail
 > 基于 Cloudflare 的邮箱服务 — 无服务器架构
 
 **Cloudflare Workers**
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/cloud-mail)
+[![Repo](https://img.shields.io/badge/→_View_Repo-f093fb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/cloud-mail)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏠 ha_yeelight_pro
+#### 🏠 ha_yeelight_pro
 > Yeelight Pro Home Assistant 集成 — 支持云端和私有部署
 
 **Python** · Yeelight Official · 核心贡献者
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/Yeelight/ha_yeelight_pro)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yeelight/ha_yeelight_pro)
 
 </td>
 <td width="50%">
 
-### 🔄 anyrouter-check-in
+#### 🔄 anyrouter-check-in
 > 多平台多账号签到工具 — 兼容 NewAPI/OneAPI 平台
 
 **Python** · 自动化运维
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/anyrouter-check-in)
+[![Repo](https://img.shields.io/badge/→_View_Repo-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/anyrouter-check-in)
 
 </td>
 </tr>
@@ -247,9 +295,11 @@ focus:
 
 ---
 
-## 📅 Timeline
+<!-- ═══════════════════ TIMELINE ═══════════════════ -->
 
 <div align="center">
+
+### 📅 `timeline --history`
 
 ```mermaid
 timeline
@@ -282,9 +332,11 @@ timeline
 
 ---
 
-## 📫 Let's Connect
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 <div align="center">
+
+### 📫 `cat ~/.social-links`
 
 [![Blog](https://img.shields.io/badge/Blog-xdlee.me-667eea?style=for-the-badge&logo=ghost&logoColor=white)](https://xdlee.me)
 [![GitHub](https://img.shields.io/badge/GitHub-axdlee-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee)
@@ -297,9 +349,17 @@ timeline
 
 ---
 
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=axdlee&color=667eea&style=for-the-badge&label=Profile+Views)
+
+<br/>
+
+```
+💬 "The best error message is the one that never shows up." — Thomas Fuchs
+```
 
 <br/>
 
