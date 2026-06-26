@@ -1,30 +1,27 @@
 <div align="center">
 
-<!-- 自托管 SVG 头图，不依赖外部服务 -->
 <img src="assets/header.svg" width="100%" alt="Sheldon Li"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%F0%9F%92%A1+Turning+ideas+into+reality+with+code;🏠+Smart+Home+%7C+🤖+IoT+%7C+%E2%9C%A8+Full+Stack)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- 动态打字底部装饰线 -->
+<!-- 总览数字 -->
+![Stars](https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fgithub.com%2Fapi%2Fv1%2Fusers%2Faxdlee&style=for-the-badge&color=667eea&logo=github&logoColor=white)
+![Forks](https://img.shields.io/badge/dynamic/json?label=Forks&query=%24.forks&url=https%3A%2F%2Fgithub.com%2Fapi%2Fv1%2Fusers%2Faxdlee&style=for-the-badge&color=764ba2&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/axdlee?label=Followers&style=for-the-badge&color=f093fb&logo=github&logoColor=white)
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,50:764ba2,100:f093fb&height=6&section=header&text=false" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-
-<div align="center">
-
-### ✨ `whoami`
-
-</div>
+## 👋 About Me
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
 ```yaml
 name:     Sheldon Li
@@ -45,18 +42,11 @@ motto: "Talk is cheap. Show me the code."
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="35%" align="center">
 
-<br/>
-
-<!-- 个人统计徽章 -->
-![GitHub Member](https://img.shields.io/badge/Member-Since_2016-667eea?style=for-the-badge&logo=github&logoColor=white)
-<br/><br/>
+![Member Since](https://img.shields.io/badge/Member-Since_2016-667eea?style=for-the-badge&logo=github&logoColor=white)
 ![Public Repos](https://img.shields.io/badge/Repos-72+-764ba2?style=for-the-badge&logo=github&logoColor=white)
-<br/><br/>
 ![Years Active](https://img.shields.io/badge/Years-10-f093fb?style=for-the-badge&logo=github&logoColor=white)
-<br/><br/>
-![Followers](https://img.shields.io/github/followers/axdlee?label=Followers&style=for-the-badge&color=667eea)
 
 </td>
 </tr>
@@ -64,13 +54,7 @@ motto: "Talk is cheap. Show me the code."
 
 ---
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
-
-<div align="center">
-
-### 🔥 `ls ~/tech-stack`
-
-</div>
+## 🔥 Tech Stack
 
 <table>
 <tr>
@@ -114,7 +98,6 @@ motto: "Talk is cheap. Show me the code."
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 <br/>
 
@@ -138,11 +121,9 @@ motto: "Talk is cheap. Show me the code."
 
 ---
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+## 📊 GitHub Stats
 
 <div align="center">
-
-### 📊 `htop --user=axdlee`
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=axdlee&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axdlee&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&border_color=30363d" />
@@ -155,11 +136,9 @@ motto: "Talk is cheap. Show me the code."
 
 ---
 
-<!-- ═══════════════════ CONTRIBUTION ACTIVITY ═══════════════════ -->
+## 📈 Contribution Activity
 
 <div align="center">
-
-### 📈 `git log --contributions`
 
 [![AxdlLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axdlee&bg_color=0D1117&color=a78bfa&line=667eea&point=f093fb&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -167,23 +146,23 @@ motto: "Talk is cheap. Show me the code."
 
 ---
 
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### 🐍 `contribution --snake`
-
-<img src="https://raw.githubusercontent.com/axdlee/axdlee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="80%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axdlee/axdlee/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axdlee/axdlee/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/axdlee/axdlee/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-<!-- ═══════════════════ WAKATIME ═══════════════════ -->
+## ⏱ Coding Stats
 
 <div align="center">
-
-### ⏱ `wakatime --stats`
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -194,112 +173,49 @@ motto: "Talk is cheap. Show me the code."
 
 ---
 
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🚀 `ls ~/projects --featured`
+<!-- 项目 1-2 -->
+<a href="https://github.com/axdlee/activation-manager">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=axdlee&repo=activation-manager&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d&hide_border=true" />
+</a>
+<a href="https://github.com/axdlee/toutiao-publish">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=axdlee&repo=toutiao-publish&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d&hide_border=true" />
+</a>
+
+<!-- 项目 3-4 -->
+<a href="https://github.com/axdlee/hermespanel">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=axdlee&repo=hermespanel&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d&hide_border=true" />
+</a>
+<a href="https://github.com/axdlee/clawpanel">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=axdlee&repo=clawpanel&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d&hide_border=true" />
+</a>
+
+<!-- 项目 5-6 -->
+<a href="https://github.com/axdlee/GoNavi">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=axdlee&repo=GoNavi&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d&hide_border=true" />
+</a>
+<a href="https://github.com/axdlee/cloud-mail">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=axdlee&repo=cloud-mail&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d&hide_border=true" />
+</a>
+
+<!-- 项目 7-8 -->
+<a href="https://github.com/Yeelight/ha_yeelight_pro">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yeelight&repo=ha_yeelight_pro&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d&hide_border=true" />
+</a>
+<a href="https://github.com/axdlee/anyrouter-check-in">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=axdlee&repo=anyrouter-check-in&bg_color=0D1117&text_color=e4e4e7&title_color=a78bfa&icon_color=667eea&border_color=30363d&hide_border=true" />
+</a>
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🏆 activation-manager
-> 软件激活码授权管理系统 — 快速构建软件付费服务
-
-**TypeScript** · ⭐ 42 · 🔥 Most Starred
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/activation-manager)
-
-</td>
-<td width="50%">
-
-#### 📰 toutiao-publish
-> 今日头条自动发布 — 长文章、图片上传、完整自动化流程
-
-**Shell** · ⭐ 6
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/toutiao-publish)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 📊 hermespanel
-> 现代化管理面板
-
-**TypeScript** · ⭐ 3
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-f093fb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/hermespanel)
-
-</td>
-<td width="50%">
-
-#### 🦀 clawpanel
-> OpenClaw 可视化管理面板 — 内置 AI 助手，跨平台桌面应用
-
-**JavaScript** · AI 多模态
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/clawpanel)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🛢 GoNavi
-> 现代化原生数据库管理工具 — Go + Wails + React
-
-**TypeScript** · 轻量高性能
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/GoNavi)
-
-</td>
-<td width="50%">
-
-#### 📧 cloud-mail
-> 基于 Cloudflare 的邮箱服务 — 无服务器架构
-
-**Cloudflare Workers**
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-f093fb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/cloud-mail)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🏠 ha_yeelight_pro
-> Yeelight Pro Home Assistant 集成 — 支持云端和私有部署
-
-**Python** · Yeelight Official · 核心贡献者
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yeelight/ha_yeelight_pro)
-
-</td>
-<td width="50%">
-
-#### 🔄 anyrouter-check-in
-> 多平台多账号签到工具 — 兼容 NewAPI/OneAPI 平台
-
-**Python** · 自动化运维
-
-[![Repo](https://img.shields.io/badge/→_View_Repo-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee/anyrouter-check-in)
-
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- ═══════════════════ TIMELINE ═══════════════════ -->
+## 📅 Timeline
 
 <div align="center">
-
-### 📅 `timeline --history`
 
 ```mermaid
 timeline
@@ -332,11 +248,9 @@ timeline
 
 ---
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+## 📫 Let's Connect
 
 <div align="center">
-
-### 📫 `cat ~/.social-links`
 
 [![Blog](https://img.shields.io/badge/Blog-xdlee.me-667eea?style=for-the-badge&logo=ghost&logoColor=white)](https://xdlee.me)
 [![GitHub](https://img.shields.io/badge/GitHub-axdlee-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee)
@@ -348,8 +262,6 @@ timeline
 </div>
 
 ---
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <div align="center">
 
