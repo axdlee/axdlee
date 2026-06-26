@@ -1,21 +1,17 @@
 <div align="center">
 
-```
- ███████╗██╗  ██╗███████╗██╗     ██████╗  ██████╗ ███╗   ██╗
- ██╔════╝╚██╗██╔╝██╔════╝██║     ██╔══██╗██╔═══██╗████╗  ██║
- █████╗   ╚███╔╝ █████╗  ██║     ██║  ██║██║   ██║██╔██╗ ██║
- ██╔══╝   ██╔██╗ ██╔══╝  ██║     ██║  ██║██║   ██║██║╚██╗██║
- ███████╗██╔╝ ██╗███████╗███████╗██████╔╝╚██████╔╝██║ ╚████║
- ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
-```
+<!-- 头部 Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Sheldon%20%20Li&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Smart%20Home%20%26%20IoT&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=$+whoami+%7C+Sheldon.Li;Software+Engineer+%40+Yeelight+%7C+Smart+Home+%26+IoT;$+cat+/etc/motto;Code+is+poetry.+Architecture+is+art.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%F0%9F%92%A1+Turning+ideas+into+reality+with+code;🏠+Smart+Home+%7C+🤖+IoT+%7C+%E2%9C%A8+Full+Stack)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
+
+<div align="center">
 
 ```yaml
 name:     Sheldon Li
@@ -31,17 +27,15 @@ focus:
   - 🤖 Home Assistant Ecosystem
   - 🛠 Developer Tools & Automation
   - ☁️  Cloud-Native Architecture
-
-philosophy:
-  - "Talk is cheap. Show me the code." — Linus Torvalds
-  - "Simplicity is the soul of efficiency." — Austin Freeman
 ```
+
+</div>
 
 <div align="center">
 
-![GitHub User Stats](https://img.shields.io/badge/GitHub_Member-Since_2016-181717?style=for-the-badge&logo=github&logoColor=white)
-![Public Repos](https://img.shields.io/badge/Public_Repos-72+-181717?style=for-the-badge&logo=github&logoColor=white)
-![Years Active](https://img.shields.io/badge/Years_Active-10-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Member](https://img.shields.io/badge/Member-Since_2016-667eea?style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Repos-72+-764ba2?style=for-the-badge&logo=github&logoColor=white)
+![Years Active](https://img.shields.io/badge/Years-10-f093fb?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -145,13 +139,10 @@ philosophy:
 
 ---
 
-## ⏱ WakaTime
+## ⏱ Coding Stats
 
-<div align="center">
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xdlee&hide_border=true&layout=compact&langs_count=10&hide_title=true)
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -166,7 +157,7 @@ philosophy:
 
 **TypeScript** · ⭐ 42 · 🔥 Most Starred
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/axdlee/activation-manager)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/activation-manager)
 
 </td>
 <td width="50%">
@@ -176,7 +167,7 @@ philosophy:
 
 **Shell** · ⭐ 6
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/axdlee/toutiao-publish)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/toutiao-publish)
 
 </td>
 </tr>
@@ -188,7 +179,7 @@ philosophy:
 
 **TypeScript** · ⭐ 3
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/axdlee/hermespanel)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/hermespanel)
 
 </td>
 <td width="50%">
@@ -198,7 +189,7 @@ philosophy:
 
 **JavaScript** · AI 多模态集成
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/axdlee/clawpanel)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/clawpanel)
 
 </td>
 </tr>
@@ -210,7 +201,7 @@ philosophy:
 
 **TypeScript** · 轻量高性能
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/axdlee/GoNavi)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/GoNavi)
 
 </td>
 <td width="50%">
@@ -220,7 +211,7 @@ philosophy:
 
 **Cloudflare Workers**
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/axdlee/cloud-mail)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/cloud-mail)
 
 </td>
 </tr>
@@ -232,7 +223,7 @@ philosophy:
 
 **Python** · Yeelight Official · 核心贡献者
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/Yeelight/ha_yeelight_pro)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/Yeelight/ha_yeelight_pro)
 
 </td>
 <td width="50%">
@@ -242,21 +233,11 @@ philosophy:
 
 **Python** · 自动化运维
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github)](https://github.com/axdlee/anyrouter-check-in)
+[![Repo](https://img.shields.io/badge/→_View_Repo-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/axdlee/anyrouter-check-in)
 
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=axdlee&no-frame=true&no-bg=true&column=7&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/axdlee)
-
-</div>
 
 ---
 
@@ -280,7 +261,6 @@ timeline
     section 2022~2023 · 突破
         2022 : ⭐ activation-manager 上线
         2023 : 📊 hermespanel 管理面板
-             : ⭐ activation-manager 42⭐
     section 2024 · 拓展
         2024 : 🛢 GoNavi 数据库工具 (Go + Wails)
              : 📧 cloud-mail 无服务器邮箱
@@ -296,16 +276,16 @@ timeline
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/BLOG-xdlee.me-FF6B6B?style=for-the-badge&logo=ghost&logoColor=white)](https://xdlee.me)
-[![GitHub](https://img.shields.io/badge/GITHUB-axdlee-00FF41?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee)
-[![X/Twitter](https://img.shields.io/badge/X__TWITTER-@LiXdlee110-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LiXdlee110)
-[![Email](https://img.shields.io/badge/EMAIL-xdlee110@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xdlee110@gmail.com)
-[![LinuxDo](https://img.shields.io/badge/LINUX.DO-xdlee-000000?style=for-the-badge&logo=linux&logoColor=white)](https://linux.do/u/xdlee)
-![WeChat](https://img.shields.io/badge/WECHAT-lxdgege2012-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+[![Blog](https://img.shields.io/badge/Blog-xdlee.me-667eea?style=for-the-badge&logo=ghost&logoColor=white)](https://xdlee.me)
+[![GitHub](https://img.shields.io/badge/GitHub-axdlee-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axdlee)
+[![X/Twitter](https://img.shields.io/badge/X-@LiXdlee110-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LiXdlee110)
+[![Email](https://img.shields.io/badge/Email-xdlee110@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xdlee110@gmail.com)
+[![LinuxDo](https://img.shields.io/badge/Linux.do-xdlee-000?style=for-the-badge&logo=linux&logoColor=white)](https://linux.do/u/xdlee)
+![WeChat](https://img.shields.io/badge/WeChat-lxdgege2012-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 
 </div>
 
@@ -313,19 +293,10 @@ timeline
 
 <div align="center">
 
-### 💬 Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+![Profile Views](https://komarev.com/ghpvc/?username=axdlee&color=667eea&style=for-the-badge&label=Profile+Views)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=axdlee&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-```
- ╔═══════════════════════════════════════════════════════╗
- ║  "The best error message is the one that never shows  ║
- ║   up." — Thomas Fuchs                                 ║
- ╚═══════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer" width="100%"/>
 
 </div>
