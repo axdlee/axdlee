@@ -167,11 +167,11 @@ motto: "Talk is cheap. Show me the code."
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                 24 hrs 17 mins        █████████████▒░░░░░░░░░░░   53.27 %
-Markdown                   10 hrs 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.57 %
-Go                         2 hrs 26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-JSON                       2 hrs 20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Python                     1 hr 48 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+JavaScript   15 hrs 58 mins        ████████████▒░░░░░░░░░░░░   49.31 %
+Markdown     9 hrs 35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.58 %
+JSON         2 hrs 18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Go           1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Python       56 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
